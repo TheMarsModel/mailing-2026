@@ -1,1 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Mars Model – Technical Rider</title>
+</head>
+<body style="margin:0; font-family:Arial, sans-serif; background:#000; color:#e6e6e9;">
+  <div style="max-width:900px; margin:0 auto; padding:28px 18px;">
+    <h1 style="margin:0 0 6px 0; color:#ffd1e6; font-size:28px;">THE MARS MODEL</h1>
+    <h2 style="margin:0 0 18px 0; color:#cfcfd3; font-weight:normal; font-size:18px;">Technical Rider</h2>
+
+    <div style="border:1px solid rgba(255,255,255,0.12); border-radius:10px; padding:16px; margin:0 0 18px 0;">
+      <h3 style="margin:0 0 10px 0; color:#ff5aa5; font-size:16px;">Contact</h3>
+      <p style="margin:0; line-height:1.5;">
+        <b>Bookings / Technical:</b> Peter<br>
+        <b>Languages:</b> NL / EN / FR<br>
+        <b>Phone:</b> +32 479 288 177<br>
+        <b>Email:</b> <a href="mailto:themarsmodel.63@gmail.com" style="color:#ff5aa5; text-decoration:underline;">themarsmodel.63@gmail.com</a>
+      </p>
+    </div>
+
+    <div style="border:1px solid rgba(255,255,255,0.12); border-radius:10px; padding:16px; margin:0 0 18px 0;">
+      <h3 style="margin:0 0 10px 0; color:#ff5aa5; font-size:16px;">FOH requirements</h3>
+      <ul style="margin:0; padding-left:18px; line-height:1.55;">
+        <li>Professional PA system capable of at least <b>105 dB(A)</b> clean output</li>
+        <li>Preferred brands: L-Acoustics, d&amp;b audiotechnik, D.A.S., EV, Nexo, RCF, Kling &amp; Freitag, TW Audio</li>
+        <li>Digital FOH console preferred</li>
+        <li>Minimum <b>20 input channels</b></li>
+        <li><b>2 FX engines</b> (at least 1 reverb)</li>
+        <li>Experienced FOH engineer provided by TMM</li>
+      </ul>
+    </div>
+
+    <div style="border:1px solid rgba(255,255,255,0.12); border-radius:10px; padding:16px; margin:0 0 18px 0;">
+      <h3 style="margin:0 0 10px 0; color:#ff5aa5; font-size:16px;">Monitor requirements</h3>
+      <ul style="margin:0; padding-left:18px; line-height:1.55;">
+        <li>Minimum <b>5</b> separate monitor mixes</li>
+        <li>Wedges or IEM compatible</li>
+        <li>Powerful and clear vocal monitoring is essential</li>
+      </ul>
+    </div>
+
+    <div style="border:1px solid rgba(255,255,255,0.12); border-radius:10px; padding:16px;">
+      <h3 style="margin:0 0 10px 0; color:#ff5aa5; font-size:16px;">Input list (literal)</h3>
+      <div style="overflow-x:auto;">
+        <table cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:collapse; min-width:720px;">
+          <thead>
+            <tr>
+              <th style="text-align:left; padding:10px; border-bottom:1px solid rgba(255,255,255,0.12); color:#ffffff;">Ch</th>
+              <th style="text-align:left; padding:10px; border-bottom:1px solid rgba(255,255,255,0.12); color:#ffffff;">Instrument</th>
+              <th style="text-align:left; padding:10px; border-bottom:1px solid rgba(255,255,255,0.12); color:#ffffff;">Mic / DI / Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">1</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Kick</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">Shure 52, AKG D112 or similar — Send to stereobus 1/2 — Compressor</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">3</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Snare</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">SM57, Sennheiser E906 or similar — Send to reverb FX, send to stereobus 1/2 — Compressor</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">4</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Hihatt</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">SM57 or similar</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">5</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Rack Tom</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">E904 or E604 — Send to reverb FX, send to stereobus 1/2 — Compressor / Gate</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">6</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Floor Tom</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">E904 or E604 — Send to reverb FX, send to stereobus 1/2 — Compressor / Gate</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">7</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">OH / Crash L</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">AKG C1000 or similar</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">8</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">OH / Crash R</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">AKG C1000 or similar — Op de stereobus ook compressor</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">9</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Guitar Kemper 1 L</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">Kemper 1 XLR L out — Send to delay FX</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">10</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Guitar Kemper 1 R</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">Kemper 1 XLR R out — Send to delay FX</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">11</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Guitar Kemper 2 L</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">Kemper 2 XLR L out — Send to delay FX</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">12</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Guitar Kemper 2 R</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">Kemper 2 XLR R out — Send to delay FX</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">13</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Bass DI</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">Active DI or Shure B52 — Compressor</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">14</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Synth</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">TS jack out</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">15–16</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Synth</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">2x TS jack out</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">17–18</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Lead Vocals (Hans)</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">SM58 — Pedal FX stereo out — send to reverb FX and delay FX — Compressor</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">19</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Vocals (Peter)</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">SM58 — Send to reverb FX and delay FX — Compressor</td>
+            </tr>
+            <tr>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:90px;">20</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3; width:220px;">Vocals (Olivier)</td>
+              <td style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.08); color:#cfcfd3;">SM58 — Send to reverb FX and delay FX — Compressor</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="margin:12px 0 0 0; color:#888; font-size:12px; line-height:1.4;">
+        Note: channel numbering is taken literally from the provided input list.
+      </p>
+    </div>
+
+    <p style="margin:18px 0 0 0; color:#888; font-size:12px; line-height:1.4;">© The Mars Model</p>
+  </div>
+</body>
+</html>
 
