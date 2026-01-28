@@ -61,27 +61,7 @@
                       <img src="https://img.youtube.com/vi/Nlgxd5EK37Y/hqdefault.jpg" alt="Clip 1" width="100%" style="display:block; border-radius:4px;" />
                     </a>
                   </td>
-                  <td width="20%" style="padding-right:5px;">
-                    <a href="https://youtu.be/_CkUCvcLctw" target="_blank">
-                      <img src="https://img.youtube.com/vi/_CkUCvcLctw/hqdefault.jpg" alt="Clip 2" width="100%" style="display:block; border-radius:4px;" />
-                    </a>
-                  </td>
-                  <td width="20%" style="padding:0 5px;">
-                    <a href="https://youtu.be/2ALtDfaNSJw" target="_blank">
-                      <img src="https://img.youtube.com/vi/2ALtDfaNSJw/hqdefault.jpg" alt="Clip 3" width="100%" style="display:block; border-radius:4px;" />
-                    </a>
-                  </td>
-                  <td width="20%" style="padding-left:5px;">
-                    <a href="https://youtu.be/SVeg9Ny-1WE" target="_blank">
-                      <img src="https://img.youtube.com/vi/SVeg9Ny-1WE/hqdefault.jpg" alt="Clip 4" width="100%" style="display:block; border-radius:4px;" />
-                    </a>
-                  </td>
-                  <td width="20%" style="padding-left:5px;">
-                    <a href="https://youtu.be/Y81d2ILozt4" target="_blank">
-                      <img src="https://img.youtube.com/vi/Y81d2ILozt4/hqdefault.jpg" alt="Clip 5" width="100%" style="display:block; border-radius:4px;" />
-                    </a>
-                  </td>
-                </tr>
+                   </tr>
               </table>
 
             </td>
@@ -486,14 +466,7 @@
             </td>
           </tr>
 
-          <!-- Band photo -->
-          <tr>
-            <td style="padding:0 20px 20px 20px;">
-              <img src="https://i.imgur.com/S9zbdeT.jpeg" alt="Bandfoto" width="100%" style="display:block; border-radius:4px;" />
-            </td>
-          </tr>
-
-          <!-- Footer -->
+ <!-- Footer -->
           <tr>
             <td style="padding:20px; font-size:12px; color:#bdbec2; border-top:1px solid rgba(255,255,255,0.1); line-height:18px;">
               Greetz,<br/>
@@ -504,6 +477,15 @@
               <a href="https://www.youtube.com/channel/UC9fcYADJs_H3MBPTFaJvYQA" style="color:#bdbec2; text-decoration:underline;">YouTube</a>
             </td>
           </tr>
+
+          <!-- Band photo -->
+          <tr>
+            <td style="padding:0 20px 20px 20px;">
+              <img src="https://i.imgur.com/S9zbdeT.jpeg" alt="Bandfoto" width="100%" style="display:block; border-radius:4px;" />
+            </td>
+          </tr>
+
+         
 
         </table><!-- /Main container -->
 
