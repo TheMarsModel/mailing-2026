@@ -476,6 +476,14 @@
             </td>
           </tr>
 
+<!-- Back to top -->
+<p style="margin:20px 0 0 0; text-align:center;">
+  <a href="#top"
+     style="color:#ff5aa5; font-size:12px; font-weight:bold; text-decoration:underline;">
+    ↑ Back to top
+  </a>
+</p>
+
           <!-- Divider between languages -->
           <tr>
             <td style="padding:0; border-top:2px solid rgba(255,90,165,0.35);"></td>
@@ -672,6 +680,14 @@ The Mars Model construit des autoroutes entre ces mondes, comme l’ont fait ava
               </table>
             </td>
           </tr>
+
+<!-- Back to top -->
+<p style="margin:20px 0 0 0; text-align:center;">
+  <a href="#top"
+     style="color:#ff5aa5; font-size:12px; font-weight:bold; text-decoration:underline;">
+    ↑ Back to top
+  </a>
+</p>
 
           <!-- Footer -->
           <tr>
