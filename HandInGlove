@@ -270,13 +270,13 @@
 
           <!-- Divider between languages -->
           <tr>
-            <td style="padding:0; border-top:2px solid rgba(255,90,165,0.35);"></td>
+            <td style="padding:0; border-top:2px solid rgba(255,90,165,0.35);"><a id="nl"></a></td>
           </tr>
 
           <!-- ===================================================== -->
           <!-- ====================== NEDERLANDS ==================== -->
           <!-- ===================================================== -->
-<a id="nl"></a>
+
           <!-- NL: Hero (zelfde layout, NL tekst) -->
           <tr>
             <td style="padding:20px;">
@@ -478,22 +478,26 @@
           </tr>
 
 <!-- Back to top -->
-<p style="margin:20px 0 0 0; text-align:center;">
-  <a href="#top"
-     style="color:#ff5aa5; font-size:12px; font-weight:bold; text-decoration:underline;">
-    ↑ Back to top
-  </a>
-</p>
+<tr>
+  <td align="center" style="padding:16px 20px 0 20px;">
+    <a href="#top"
+       style="display:inline-block; padding:8px 14px; font-size:12px; font-weight:bold;
+              color:#000000; background-color:#ff5aa5; text-decoration:none; border-radius:4px;">
+      ↑ Back to top
+    </a>
+  </td>
+</tr>
+
 
           <!-- Divider between languages -->
           <tr>
-            <td style="padding:0; border-top:2px solid rgba(255,90,165,0.35);"></td>
+            <td style="padding:0; border-top:2px solid rgba(255,90,165,0.35);"><a id="fr"></a></td>
           </tr>
 
           <!-- ===================================================== -->
           <!-- ======================= FRANÇAIS ===================== -->
           <!-- ===================================================== -->
-<a id="fr"></a>
+
           <!-- FR: Hero -->
           <tr>
             <td style="padding:20px;">
@@ -683,12 +687,16 @@ The Mars Model construit des autoroutes entre ces mondes, comme l’ont fait ava
           </tr>
 
 <!-- Back to top -->
-<p style="margin:20px 0 0 0; text-align:center;">
-  <a href="#top"
-     style="color:#ff5aa5; font-size:12px; font-weight:bold; text-decoration:underline;">
-    ↑ Back to top
-  </a>
-</p>
+<tr>
+  <td align="center" style="padding:16px 20px 0 20px;">
+    <a href="#top"
+       style="display:inline-block; padding:8px 14px; font-size:12px; font-weight:bold;
+              color:#000000; background-color:#ff5aa5; text-decoration:none; border-radius:4px;">
+      ↑ Back to top
+    </a>
+  </td>
+</tr>
+
 
           <!-- Footer -->
           <tr>
