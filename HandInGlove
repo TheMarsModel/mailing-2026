@@ -12,8 +12,8 @@
       <td align="center" width="100%" style="font-size:12px; color:#888888; text-align:center;">
         Should this email not appear correctly,<br>
         <a href="https://themarsmodel.github.io/mailing-2026/" target="_blank" rel="noopener noreferrer" style="color:#ff5aa5; text-decoration:underline;">
-          open it in your browser
-        </a>.
+  open it in your browser
+</a>.          
       </td>
     </tr>
   </table>
@@ -34,38 +34,34 @@
             </td>
           </tr>
 
-          <!-- ===== ENGLISH (EN) ===== -->
+          <!-- Hero / Text section -->
           <tr>
             <td style="padding:20px;">
-
               <h2 style="color:#ffffff; font-size:24px; margin:0 0 10px 0;">
                 NEW SINGLE "HAND IN GLOVE" AND VIDEO OUT NOW !
               </h2>
 
-              <!-- Video title -->
-              <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin:20px 0 10px 0;">
-                <tr>
-                  <td align="left" style="padding:0 0 10px 0;">
-                    <span style="font-size:16px; font-weight:bold; color:#ffffff; text-decoration:underline;">
-                      Video
-                    </span>
-                  </td>
-                </tr>
-              </table>
+<!-- Video titel -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin:20px 0 10px 0;">
+  <tr>
+    <td align="left" style="padding:0 0 10px 0;">
+      <span style="font-size:16px; font-weight:bold; color:#ffffff; text-decoration:underline;">
+        Video
+      </span>
+    </td>
+  </tr>
+</table>
 
-              <!-- Video thumbnails -->
-              <table width="100%" cellpadding="0" cellspacing="0" border="0">
+<!-- Video thumbnails -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
                 <tr>
-                  <td width="20%" style="padding-right:5px;">
+<td width="20%" style="padding-right:5px;">
                     <a href="https://youtu.be/Nlgxd5EK37Y" target="_blank">
                       <img src="https://img.youtube.com/vi/Nlgxd5EK37Y/hqdefault.jpg" alt="Clip 1" width="100%" style="display:block; border-radius:4px;" />
                     </a>
-                  </td>
-                   </tr>
+                  </td>            
+                </tr>
               </table>
-
-            </td>
-          </tr>
 
           <!-- EN: Press -->
           <tr>
@@ -486,7 +482,6 @@
           </tr>
 
          
-
         </table><!-- /Main container -->
 
       </td>
